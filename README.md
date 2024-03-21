@@ -7,7 +7,7 @@ The data transformation is trivial, this experiment project was just to start bu
 
 # Running locally
 
-Sign up for a free account with Open Weather and retrieve API KEY and set locally in a .env file within the repo. 
+Sign up for a free account with Open Weather and retrieve the API key and set the value locally in a .env file in the repo with the name of "WEATHER_API_KEY" . 
 
 
 
