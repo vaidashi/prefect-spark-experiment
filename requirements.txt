@@ -1,0 +1,4 @@
+prefect==2.16.4
+pyspark==3.5.1
+python-dotenv==1.0.1
+Requests==2.31.0
